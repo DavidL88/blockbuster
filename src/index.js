@@ -1,0 +1,4 @@
+import { render } from "./lb/react-dom.js";
+import App from "./components/app.js";
+
+render(new App(), root);
